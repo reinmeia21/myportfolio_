@@ -1,3 +1,4 @@
+gsap.config()
 
 gsap.to(".box", {
     rotate: 360,
